@@ -1,5 +1,5 @@
 {
-    "autor": "CORSINHAAMARELO", 
+    "autor": "TheLegendSebo", 
     "name": "Ethernium",
     "keywords": "ethernium , ETH",
     "version": "2.62",
